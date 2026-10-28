@@ -1,0 +1,14 @@
+{
+  "asset_class": "B2B Multi-Warehouse Inventory Stock & SKU Matrix Engine",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "warehouse_id_segregation_logs",
+    "dynamic_bin_coordinate_matrices",
+    "low_stock_reorder_thresholds",
+    "residual_total_inventory_asset_value"
+  ]
+}
